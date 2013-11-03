@@ -20,8 +20,10 @@ So lets share/and be reviewed product through face book and other social media
 <h3>Credits</h3>
 ExNet Group (http://exnetbd.com)
 
-<h3>Thanks</h3>
+<h3>Thanks For Supporting</h3>
 Al-amien Gazi, Aminur Islam, Omar FaRuk, Zamil Hossain Sezan, S M Mishkatul Islam, Nazmoon Munny, Rabby Shaied Shikder, Sohel Rana.
+
+<h3>Any Bug or Help:</h3> support@shameemreza.info
 
 
 
