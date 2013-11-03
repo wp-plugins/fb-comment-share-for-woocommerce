@@ -25,7 +25,7 @@ If any problem, check documentation included with plugin.
 Enjoy
 
 == Screenshots ==
-
+assets/banner-772×250.png
 assets/fbc1.jpg
 assets/fbc2.jpg
 assets/fbc3.jpg
