@@ -17,6 +17,29 @@ Allow your customer give you review/comment from their facebook account.
 It also integrated with social share, so you and your customer can share your woocommerce product to your/their facebook timeline easy.
 So lets share/and be reviewed product through face book and other social media
 
+<h3>Credits</h3>
+ExNet Group
+URL: http://exnetbd.com
+FB: http://www.facebook.com/exnetbd
+
+<h3>Thanks</h3>
+Al-amien Gazi
+FB: http://www.facebook.com/extraperson
+
+Aminur Islam
+FB: http://www.facebook.com/crownkhokon
+
+Omar FaRuk
+FB: http://www.facebook.com/farukmrbd
+
+Zamil Hossain Sezan
+FB: http://www.facebook.com/Zamil Hossain Sezan
+
+S M Mishkatul Islam
+FB: http://www.facebook.com/mishkat.me
+
+
+
 == Installation ==
 This section describes how to install the plugin and get it working.
 
