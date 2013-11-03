@@ -18,25 +18,10 @@ It also integrated with social share, so you and your customer can share your wo
 So lets share/and be reviewed product through face book and other social media
 
 <h3>Credits</h3>
-ExNet Group
-URL: http://exnetbd.com
-FB: http://www.facebook.com/exnetbd
+ExNet Group (http://exnetbd.com)
 
 <h3>Thanks</h3>
-Al-amien Gazi
-FB: http://www.facebook.com/extraperson
-
-Aminur Islam
-FB: http://www.facebook.com/crownkhokon
-
-Omar FaRuk
-FB: http://www.facebook.com/farukmrbd
-
-Zamil Hossain Sezan
-FB: http://www.facebook.com/Zamil Hossain Sezan
-
-S M Mishkatul Islam
-FB: http://www.facebook.com/mishkat.me
+Al-amien Gazi, Aminur Islam, Omar FaRuk, Zamil Hossain Sezan, S M Mishkatul Islam, Nazmoon Munny, Rabby Shaied Shikder, Sohel Rana.
 
 
 
