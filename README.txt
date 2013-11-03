@@ -10,16 +10,12 @@ Tested up to: 3.7
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Here is a short description of the plugin.
-
 == Description ==
-This theme or plugin is comprised of two parts.
+Facebook Commenter and Share allow you integrate woocommerce reviewing and commenting system through facebook.
 
-(1) the PHP code and integrated HTML are licensed under the General Public
-License (GPL). You will find a copy of the GPL in the same directory as this
-text file.
-
-(2) All other parts, but not limited to the CSS code, images, and design.
+Allow your customer give you review/comment from their facebook account.
+It also integrated with social share, so you and your customer can share your woocommerce product to your/their facebook timeline easy.
+So lets share/and be reviewed product through face book and other social media
 
 == Installation ==
 Download it from WordpPress.org plugin directory and upload in your site.
@@ -30,6 +26,6 @@ Enjoy
 
 == Screenshots ==
 
-preview/fbc1.jpg
-preview/fbc2.jpg
-preview/fbc3.jpg
+assets/fbc1.jpg
+assets/fbc2.jpg
+assets/fbc3.jpg
