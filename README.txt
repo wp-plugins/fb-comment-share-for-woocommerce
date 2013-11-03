@@ -18,14 +18,15 @@ It also integrated with social share, so you and your customer can share your wo
 So lets share/and be reviewed product through face book and other social media
 
 == Installation ==
-Download it from WordpPress.org plugin directory and upload in your site.
-Active and set as you want.
-If any problem, check documentation included with plugin.
+This section describes how to install the plugin and get it working.
+
+1. Upload `woocommerce-fb-comment.zip` to the `/wp-content/plugins/` directory
+2. Activate the plugin through the 'Plugins' menu in WordPress
+3. Now change setting from woocommercee option or simply from Widget.
 
 Enjoy
 
 == Screenshots ==
-assets/banner-772×250.png
-assets/fbc1.jpg
-assets/fbc2.jpg
-assets/fbc3.jpg
+1. screenshot-1.png
+2. screenshots-2.png
+3. screenshots-3.png
