@@ -28,30 +28,27 @@ Al-amien Gazi, Aminur Islam, Omar FaRuk, Zamil Hossain Sezan, S M Mishkatul Isla
 == Installation ==
 Installing FB Comment & Share For WooCommerce requires little modification code, no theme modification, and installs as easy as any other plugin.
 
- <p>1.You can use wordpress plugin uploader to automaticly install this plugin -OR</p>
+ 1.You can use wordpress plugin uploader to automaticly install this plugin -OR
  
- <p>2.Upload the woocommerce-fb-comment folder to your WordPress plugin directory. ( wp-content/plugins )<p>
+ 2.Upload the woocommerce-fb-comment folder to your WordPress plugin directory. ( wp-content/plugins )
  
- <p>3.Activate the plugin from your WordPress plugin administration page</p>
+ 3.Activate the plugin from your WordPress plugin administration page
  
- <p>4.You can now go the Woocommerce -> FBC Settings page to configure it!</p>
+ 4.You can now go the Woocommerce -> FBC Settings page to configure it!
 
 <h3>Setting up your Plugin </h3>
 To setting your plugin you must login to your admin dashboard.
 
- <p>1.Login to your admin dashboard</p>
+ 1.Login to your admin dashboard
  
- <p>2.Go to Woocommerce -> FBC Settings</p>
+ 2.Go to Woocommerce -> FBC Settings
  
- <p>3.Them you can see setup form</p>
+ 3.Them you can see setup form
  
- <p>4.Fill/change value above suitable with your detail</p>
+ 4.Fill/change value above suitable with your detail
  
- <p>5.Save it!<p>
+ 5.Save it!
 
 Enjoy
 
 == Screenshots ==
-1. screenshot-1.png
-2. screenshots-2.png
-3. screenshots-3.png
