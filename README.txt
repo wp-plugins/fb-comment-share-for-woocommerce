@@ -52,3 +52,5 @@ To setting your plugin you must login to your admin dashboard.
 Enjoy
 
 == Screenshots ==
+1. FBC Setting (Main)
+2. Product Page Setting
