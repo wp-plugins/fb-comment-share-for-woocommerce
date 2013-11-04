@@ -30,9 +30,9 @@ include_once('frontend/fbc-class-frontend.php');
 	
 	function fbc_activation () {
 		add_option('fbc_enabled', 'yes');
-		add_option('fbc_app_id', '190328254487650');
+		add_option('fbc_app_id', '89787987897987');
 		add_option('fbc_width', '550');
 		add_option('fbc_share_enabled', '');
 		add_option('fbc_color_scheme', 'default');
-		add_option('fbc_twitter', 'bossSukses');
+		add_option('fbc_twitter', 'theanuvhuti');
 	}
