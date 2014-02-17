@@ -1,10 +1,10 @@
 <?php
 /*
-	Plugin Name: Woocommerce Facebook Comment & Share
+	Plugin Name: ExNet WC Facebook Comment & Share
 	Plugin URI: http://exnetbd.com
 	Description: Add facebook widget comment on your product page.
 	Author: Shameem Reza
-	Version: 1.0.0
+	Version: 1.5.0
 	Author URI: http://shameemreza.info
 	License: GPL v2
 */
@@ -17,9 +17,8 @@ define('FBC_PATH', plugin_dir_path(__FILE__));
 define('FBC_BASE', plugin_basename( __FILE__ ));
 define('FBC_RELPATH', dirname( plugin_basename( __FILE__ ) ) );
 define('FBC_UPDATE', plugin_dir_path( __FILE__ ).'update' );
-define('FBC_HOST', 'http://wpbuz.com/remote');
 
-define('FBC_VERSION', '1.0.2');
+define('FBC_VERSION', '1.5.0');
 define('FBCOMMENT', true);
 
 include_once('admin/fbc-class-admin.php');
