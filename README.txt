@@ -1,5 +1,5 @@
 === ExNet FB Comment and Share For WooCommerce ===
-Contributors: TheAnuvhuti, extraperson, exnet
+Contributors: TheAnuvhuti, extraperson,
 Plugin Name: FB Comment and Share For WooCommerce
 Plugin URI: http://exnetbd.com
 Tags: comments, woocommerce, Facebook, share
@@ -16,15 +16,6 @@ Facebook Commenter and Share allow you integrate woocommerce reviewing and comme
 Allow your customer give you review/comment from their facebook account.
 It also integrated with social share, so you and your customer can share your woocommerce product to your/their facebook timeline easy.
 So lets share/and be reviewed product through face book and other social media
-
-<h3>Credits</h3>
-ExNet Group (http://exnetbd.com)
-
-<h3>Thanks For Supporting</h3>
-Al-amien Gazi, Aminur Islam, Omar FaRuk, Zamil Hossain Sezan, S M Mishkatul Islam
-
-<h3>Any Bug or Help:</h3> support@shameemreza.info
-
 
 
 == Installation ==
