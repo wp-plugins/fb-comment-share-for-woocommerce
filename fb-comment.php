@@ -1,10 +1,10 @@
 <?php
 /*
-	Plugin Name: ExNet WC Facebook Comment & Share
-	Plugin URI: http://exnetbd.com
+	Plugin Name: WC Facebook Comment & Share
+	Plugin URI: http://themology.net
 	Description: Add facebook widget comment on your product page.
 	Author: Shameem Reza
-	Version: 1.5.0
+	Version: 1.5.1
 	Author URI: http://shameemreza.info
 	License: GPL v2
 */

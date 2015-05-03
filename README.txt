@@ -1,13 +1,13 @@
 === ExNet FB Comment and Share For WooCommerce ===
-Contributors: TheAnuvhuti, extraperson,
+Contributors: TheAnuvhuti, extraperson, themology
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=7V7GRJBM8J4KJ&lc=US&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted
 Plugin Name: FB Comment and Share For WooCommerce
-Plugin URI: http://exnetbd.com
+Plugin URI: https://wordpress.org/plugins/fb-comment-share-for-woocommerce/
 Tags: comments, woocommerce, Facebook, share
-Author URI: http://shameemreza.info/
+Author URI: http://themology.net/
 Author: Shameem Reza
 Requires at least: 3.0.1
-Tested up to: 3..81
+Tested up to: 4.2.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -20,6 +20,7 @@ So lets share/and be reviewed product through face book and other social media
 
 
 == Installation ==
+
 Installing FB Comment & Share For WooCommerce requires little modification code, no theme modification, and installs as easy as any other plugin.
 
  1.You can use wordpress plugin uploader to automaticly install this plugin -OR
@@ -31,6 +32,7 @@ Installing FB Comment & Share For WooCommerce requires little modification code,
  4.You can now go the Woocommerce -> FBC Settings page to configure it!
 
 <h3>Setting up your Plugin </h3>
+
 To setting your plugin you must login to your admin dashboard.
 
  1.Login to your admin dashboard
@@ -53,3 +55,8 @@ Enjoy
 
 = 1.5.0 =
 Color swiping option problem solve.
+
+= 1.5.1 =
+Intial Release
+Compitable to work with wordpress 4.2.1
+Compitable with Woocommerce 2.3+
