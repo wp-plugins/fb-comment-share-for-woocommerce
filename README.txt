@@ -1,5 +1,5 @@
 === FB Comment and Share For WooCommerce ===
-Contributors: TheAnuvhuti, extraperson, themology
+Contributors: TheAnuvhuti, extraperson
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=7V7GRJBM8J4KJ&lc=US&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted
 Plugin Name: FB Comment and Share For WooCommerce
 Plugin URI: https://wordpress.org/plugins/fb-comment-share-for-woocommerce/
